@@ -1,0 +1,5 @@
+<resources>
+    <color name="black_bg">#000000</color>
+    <color name="circle_white">#FFFFFF</color>
+    <color name="circle_grey">#959595</color>
+</resources>
